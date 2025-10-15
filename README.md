@@ -32,6 +32,8 @@ Baví mě spojovat promyšlený design s precizním kódem – od prvního náč
 
 > „Design is intelligence made visible.“ — Alina Wheeler
 
+<br>
+
 ---
 ---
 
@@ -49,12 +51,6 @@ I connect aesthetic design with precise code – from the first concept to the f
 - **Frontend** – React, Next.js, Tailwind, shadcn/ui  
 - **UX/UI design** – Figma, prototyping, usability testing  
 - **Creative projects** – blending design, technology, and storytelling  
-
----
-
-### 🧠 Currently Working On
-- **[bylonebylo.eu](https://bylonebylo.eu)** – an interactive history learning platform  
-- **[steviks.com](https://steviks.com)** – my personal portfolio and experimental space  
 
 ---
 
