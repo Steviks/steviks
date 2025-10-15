@@ -1,4 +1,4 @@
-# 👋 Ahoj, jsem Štěpán Balek
+# 👋 Ahoj, jsem Štěpán Balek · Steviks
 
 Jsem **UX/UI designér** a **webový vývojář**, který se zaměřuje na čisté, rychlé a moderní digitální projekty.  
 Baví mě spojovat promyšlený design s precizním kódem – od prvního náčrtu až po finální nasazení.
