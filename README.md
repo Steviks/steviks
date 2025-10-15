@@ -1,4 +1,4 @@
-# 👋 Ahoj, jsem Štěpán Balek · Steviks
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd# 👋 Ahoj, jsem Štěpán Balek · Steviks
 
 Jsem **UX/UI designér** a **webový vývojář**, který se zaměřuje na čisté, rychlé a moderní digitální projekty.  
 Baví mě spojovat promyšlený design s precizním kódem – od prvního náčrtu až po finální nasazení.
@@ -10,12 +10,6 @@ Baví mě spojovat promyšlený design s precizním kódem – od prvního náč
 - **Frontend** – React, Next.js, Tailwind, shadcn/ui  
 - **UX/UI design** – Figma, prototypování, uživatelské testování  
 - **Kreativní projekty** – propojování designu, technologií a příběhu  
-
----
-
-### 🧠 Na čem pracuji
-- **[bylonebylo.eu](https://bylonebylo.eu)** – interaktivní platforma pro výuku dějepisu  
-- **[steviks.com](https://steviks.com)** – moje osobní portfolio a prostor pro experimenty  
 
 ---
 
